@@ -96,3 +96,18 @@ p {
     text-align: center;
   }
 }
+
+.avatar {
+  max-width: 150px;
+  border-radius: 50%;
+}
+
+.nav-link {
+  font-family: var(--default-font-family);
+  color: #272142;
+  font-size: 16px;
+}
+
+/* .nav-link active a {
+  color: #6c63ff !important;
+} */
