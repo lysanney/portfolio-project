@@ -110,8 +110,13 @@ p {
   padding: 120px 60px;
 }
 
+.photo {
+  max-width: 450px;
+  border-radius: 20px;
+}
+
 .logo {
-  max-height: 150px;
+  max-height: 50px;
 }
 
 .logo-small {
@@ -217,5 +222,10 @@ footer .social-links a:hover {
 
   nav a {
     font-size: 14px;
+  }
+
+  .logo-small {
+    max-height: 25px;
+    margin-top: 10px;
   }
 }
