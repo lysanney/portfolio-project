@@ -228,4 +228,9 @@ footer .social-links a:hover {
     max-height: 25px;
     margin-top: 10px;
   }
+
+  .photo {
+    max-width: 350px;
+    margin-top: 30px;
+  }
 }
